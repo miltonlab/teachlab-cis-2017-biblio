@@ -1,0 +1,26 @@
+/* 
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+/**
+ * Author:  miltonlab
+ * Created: 15/08/2017
+ */
+
+insert into libros (isbn,titulo,editorial_id,año,categoria,precio) values 
+('84-01-92101-5','Historia de Occidente','MCOY',1995,'HISTORIA',39),
+('84-02-08696-9','Arquitectura y arte','GRI',1992,'ARTE',48),
+('84-121-2310-1','El tránsito terreno','LAR',1996,'FILOSOFÍA',25),
+('84-205-1101-3','La burguesía del XIX','DEL',1996,'HISTORIA',38),
+('84-206-1704-0','Las balas del bien','GGG',1995,'NOVELA',25),
+('84-212-2121-2','Procesadores cuánticos','GRI',1997,'CIENCIA',43),
+('84-226-2128-2','La mente y el sentir','LAR',1992,'FILOSOFÍA',31),
+('84-305-0473-7','Poemas intrínsecos','DEL',1997,'POESÍA',22),
+('84-404-8586-7','Amigos o enemigos','GGG',1996,'NOVELA',29),
+('84-444-0027-3','Canto de esperanza','MCOY',1995,'POESÍA',21),
+('84-473-0120-6','Avances en Arquitectura','TEC',1991,'TÉCNICA',46),
+('84-578-0214-8','La dualidad aparente','LAR',1994,'FILOSOFÍA',19),
+('84-7489-146-9','Sistemas operativos','GGG',1994,'TÉCNICA',56),
+('84-7634-421-1','Sentimiento popular','LAR',1994,'POESÍA',22),
+('84-7908-349-2','Ensayos Póstumos','DEL',1995,'ENSAYO',42)
